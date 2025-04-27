@@ -1,0 +1,8 @@
+body {
+	background-color: #000000;
+}
+
+* {
+	border: 3px dashed red;
+	min-height: 10px;
+}
